@@ -22,7 +22,7 @@ The implementation will rely on the webservices provide by Zotero and to run thi
 *an API key generated for the Zotero group library you want to push data to (see [Zotero API documentation](https://www.zotero.org/support/dev/web_api/v3/start) for this),
 * OpenSky web services are available to make a query
 
-The [demonstration implementation notebook](./implementation_note.ipynb) shows this in action.  It can also be [viewed here]().
+The [demonstration implementation notebook](./implementation_note.ipynb) shows this in action.  It can also be as  Jupyter Notebook [here](http://nbviewer.jupyter.org/github/NCAR/NCAR_library_experimental/blob/zotero_integration/opensky_zotero_integration/implementation_note.ipynb).
 
 ## Requirements
 
